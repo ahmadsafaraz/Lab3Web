@@ -1,6 +1,6 @@
 # Lab3Web
 
-# 1. Praktikum HTML lanjutan - membuat list
+# 1. Praktikum HTML lanjutan - membuat list 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44a68249-f74a-4b70-ba9e-50a60ee98cd9" />
 
